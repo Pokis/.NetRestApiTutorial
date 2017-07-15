@@ -1,0 +1,9 @@
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\bin\Debug\netcoreapp1.1\todoRestApi.deps.json
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\bin\Debug\netcoreapp1.1\todoRestApi.runtimeconfig.json
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\bin\Debug\netcoreapp1.1\todoRestApi.runtimeconfig.dev.json
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\bin\Debug\netcoreapp1.1\todoRestApi.dll
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\bin\Debug\netcoreapp1.1\todoRestApi.pdb
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\obj\Debug\netcoreapp1.1\todoRestApi.csprojResolveAssemblyReference.cache
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\obj\Debug\netcoreapp1.1\todoRestApi.AssemblyInfo.cs
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\obj\Debug\netcoreapp1.1\todoRestApi.dll
+W:\learning\netRestApiTutorial\todoRestApi\todoRestApi\obj\Debug\netcoreapp1.1\todoRestApi.pdb
